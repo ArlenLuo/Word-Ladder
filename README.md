@@ -15,4 +15,6 @@ Ubuntu g++
 //再根据提示输入两个单词即可
 </pre>
 
-![](\psb.jpg)
+### 示例：
+
+![](\screenshot.jpg)
