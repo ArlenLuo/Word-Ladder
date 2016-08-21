@@ -1,14 +1,3 @@
-/*:
- * File: WordLadder.cpp
- * --------------------
- * [TODO: fill in your name and student ID]
- * Name: 罗晶
- * Student ID:5140219349 
- * This file is the starter project for the word ladder problem.
- * [TODO: extend the documentation]
- */
-
-
 #include <iostream>
 #include <string>
 #include "vector.h"
