@@ -22,7 +22,9 @@ Ubuntu g++
 
 ![](\screenshot.jpg)
 
-一个实现英语词语接龙游戏的程序
+# 词语接龙
+
+这是一个实现英语词语接龙游戏的程序。
 
 游戏规则：如果start word是dog，destination word是pig，那么dog->dig->pig即视为一条ladder。这个程序基于DFS搜索，可以查找两个词之间是否存在这样的ladder并输出其中一条。
 
