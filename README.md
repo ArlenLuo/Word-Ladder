@@ -20,7 +20,7 @@ Ubuntu g++
 
 ### Screenshot：
 
-![](.\screenshot.jpg)
+![](./screenshot.jpg)
 
 # 词语接龙
 
@@ -42,4 +42,4 @@ Ubuntu g++
 
 ### 示例：
 
-![](.\screenshot.jpg)
+![](./screenshot.jpg)
